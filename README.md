@@ -1,6 +1,6 @@
 ### Hola, soy Lizeth 👋
 
-Desarrolladora en formación (bootcamp Generation Colombia) y estudiante de universidad, Actualmente estoy aprendiendo JavaScript, estructuras de datos, APIs y buenas prácticas de desarrollo web.
+Desarrolladora en formación (bootcamp Generation Colombia) y estudiante de universidad, Aprendiendo JavaScript, estructuras de datos, APIs y buenas prácticas de desarrollo web.
 
 **Actualmente:**
 
